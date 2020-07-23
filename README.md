@@ -2,4 +2,4 @@
 albert python plug,  use learn
 
 
-![](Peek 2020-07-23 20-05.gif)
+![](https://github.com/Apuyuseng/jinshanciba/blob/master/Peek%202020-07-23%2020-05.gif)
